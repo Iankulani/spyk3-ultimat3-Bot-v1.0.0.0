@@ -16,7 +16,7 @@ A comprehensive security toolkit combining:
 - Workspace Organization
 - Cyberpunk Blue/Green/Orange Theme Interface
 
-Author: Security Research Tool
+Author: Ian Carter Kulani
 Version: 1.0.0
 """
 
